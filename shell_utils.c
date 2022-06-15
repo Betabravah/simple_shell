@@ -1,8 +1,8 @@
 #include "shell.h"
 
 /**
- * Auth: Natnael tafesse
- * 		 Nejat Ahmed
+ * Auth: Emma Udeji
+ * 		 Pericles Adjovi
  *
  * Description:
  * the extended functions for main.c
